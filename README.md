@@ -1,5 +1,5 @@
 The Source code about Ex Astris including music
-## need to import M part I AND II
+## need to import M part
 almost are typescript files <br>
 InventorySlots including <br>
 Inventory <br>
