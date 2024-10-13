@@ -9,6 +9,5 @@ void function Lie(){
 void function Group(){
     this.Group = this.Dodecahedron + this.Icosahedron + this.Octahedron + this.tetrahedron
     this.Group = this.Torus + this.TorusKnot
-    
 }
 console.log('CSS')
