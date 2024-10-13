@@ -30,7 +30,7 @@ export function InventorySlot7(){
         {axis:'x5',items:'()()() ()()() ()()()'},
         {axis:'y5',items:'[][][] [][][] [][][]'},
         {axis:'z5',items:'{}{}{} {}{}{} {}{}{}'},
-        {axis:'t5',items:'^ ^ ^  ^ ^ ^  ^ ^ ^ '}
+        {axis:'t5',items:'^^^^^^ ^^^^^^ ^^^^^^ '}
     ]
 }
 
