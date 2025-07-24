@@ -8,7 +8,7 @@ import '../bigletter/O'
 import '../bigletter/P'
 import '../bigletter/Q'
 import '../return/returnnnnnnn'
-import '../InventorySlots/InventorySlot5678910'
+import '../InventorySlots/InventorySlot567'
 export function x5(){
     for (let I = 0; I <= 4; ++I)
        for (let J= 0;J <= 4; ++J)
