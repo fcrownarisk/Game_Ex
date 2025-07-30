@@ -47,3 +47,8 @@ opencv <br>
 opengl <br>
 Float BIgInt In schedule
 Complex in planning
+
+manifold XYZT <br> 
+2 Demesion hologram diagram projection <br>
+ijk lmn opq 2 4 8 lowercase <br> 
+IJL LMN OPQ 3 6 9 UPPERCASE <br>
