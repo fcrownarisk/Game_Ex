@@ -1,8 +1,8 @@
 import "../midletter/enumdt"
 import "../midletter/enumtd"
-import "../midletter/enumttdt654321"
+import "../midletter/enumtt"
 export function enumttdt() {
-   "enumdt" + "enumtd" == "enumtd"
-  return ['enumdt,enumtd,enumdt']
+   "enumdt" + "enumtd" == "enumtt"
+  return ['enumdt,enumtd,enumtt']
 }
 console.log(enumttdt)
