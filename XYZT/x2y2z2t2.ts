@@ -15,9 +15,9 @@ export function x2(){
             for (let k = 0; k <= 4; ++k)
 ;}
 export function y2(){
-    for (let l = 0; l <= -4 && l <= 4; ++l || l--)
-        for (let m = 0; m <= -4 && m <= 4; ++m || m--)
-            for (let n = 0; n <= -4 && n <= 4; ++n || n--)
+    for (let l = 0; l <= -4 && l >= 4; ++l || l--)
+        for (let m = 0; m <= -4 && m >= 4; ++m || m--)
+            for (let n = 0; n <= -4 && n >= 4; ++n || n--)
 ;}
 export function z2(){
     for (let o = 0; o >= -4; o--)
