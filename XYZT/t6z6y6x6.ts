@@ -16,13 +16,13 @@ export function x6(){
                 console.log(I, J, K)
 }
 export function y6(){
-    for(let L = 0;-9>=L && L<=9; L++||L--)
-        for(let M = 0;-9>=M && M<=9 ; M++||M--)
-            for(let N = 0 ;-9>= N && N <=9; N++||N--)
+    for(let L = 0;-L >= -9 && L <= 9; L++||L--)
+        for(let M = 0;M >= -9 && M <= 9; M++||M--)
+            for(let N = 0 ;N >= -9 && N <= 9; N++||N--)
                 console.log(L, M, N)
 }
 export function z6(){
-    for(let O=0; O>= 9; O--)
+    for(let O=0; O >= 9; O--)
         for(let P=0; P>= 9; P--)
             for(let Q=0; Q>= 9; Q--)
                 console.log(O, P, Q)
