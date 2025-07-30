@@ -10,9 +10,9 @@ import '../bigletter/Q'
 import "../return/returnnnnnnn"
 import "../InventorySlots/N1InventorySlots"
 export function x6(){
-    for (let I = 0; I <= 9; I++)
-        for (let J = 0; J <= 9; J++)
-            for (let K = 0; K <= 9; K++)
+    for (let I = 0; I <= -9; I++)
+        for (let J = 0; J <= -9; J++)
+            for (let K = 0; K <= -9; K++)
                 console.log(I, J, K)
 }
 export  function y6(){
