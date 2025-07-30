@@ -50,5 +50,6 @@ Complex in planning
 
 manifold XYZT <br> 
 2 Demesion hologram diagram projection <br>
-ijk lmn opq 2 4 8 lowercase <br> 
-IJL LMN OPQ 3 6 9 UPPERCASE <br>
+3D coordinate using opencv and opengl <br>
+ijk lmn opq 2 4 8 lowercase even <br> 
+IJL LMN OPQ 3 6 9 UPPERCASE odd <br>
