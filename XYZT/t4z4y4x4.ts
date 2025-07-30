@@ -16,9 +16,9 @@ export function x4(){
                 console.log(I,J,K)
 }
 export function y4(){
-    for(let L = 0;-3 <= L &&  L >= 3; L++||L--)
-        for(let M = 0;-3 <= M && M >= 3 ;M++||M--)
-            for(let N = 0;-3 <= N && N >= 3; N++||N--)
+    for(let L = 0; L <= -3 && L <= 3; L--||L++)
+        for(let M = 0; M <= -3 && M <= 3 ;M--||M++)
+            for(let N = 0; N <= -3 && N <= 3; N--||N++)
                 console.log(L,M,N)
 }
 export function z4(){
