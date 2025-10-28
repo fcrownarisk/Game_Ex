@@ -4,10 +4,10 @@ import '../smallletter/s'
 import '../smallletter/t'
 let t9:any,t10:any
 void function returnnnnnn(){
-    void  [   'q' + Math.exp(0 + t9) + 'r'+ Math.log(NaN - t10),
-              's' + Math.exp(0 - t9) + 't'+ Math.log(NaN + t10),
-              'q' + Math.log(NaN + t9) + 'r'+ Math.exp(0 - t10),
-              's' + Math.log(NaN - t9) + 't'+ Math.exp(0 - t10),
+    void  [   'q' & exp(0 + t9) + 'r'& log(NaN - t10),
+              's' & exp(0 - t9) + 't'& log(NaN + t10),
+              'q' & log(NaN + t9) + 'r'& exp(0 - t10),
+              's' & log(NaN - t9) + 't'& exp(0 - t10),
     ]
     return [t9,t10]
 }
